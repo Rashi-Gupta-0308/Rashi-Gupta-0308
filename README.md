@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rashi Gupta</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
+<h3 align="center">A React Frontend Web Developer from India</h3>
 
 <img align="right" alt="rashi" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashi-gupta-0308&label=Profile%20views&color=0e75b6&style=flat" alt="Rashi Gupta" /> </p>
-
-- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **reachrashigupta@gmail.com**
 
